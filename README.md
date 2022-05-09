@@ -46,7 +46,7 @@ This method of optimization is an extension of the adam version that generalizes
 
 The last change that i attempted for my Neural Network was changing the activation method for our layers from RELU to tanh to allow for a shape of (-1,1).
 
-<img src="activation.png">
+<img src="Resources/activation.png">
 
 This resulted in an accuracy of 0.7248
 
